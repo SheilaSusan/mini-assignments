@@ -1,0 +1,37 @@
+{
+    "KDA 101A": {
+        "model": "Toyota Corolla",
+        "release_year": 2019,
+        "acquired_year": 2022,
+        "money_made": 50.0,
+        "times_rented": 1
+    },
+    "KDB 202B": {
+        "model": "Mazda Demio",
+        "release_year": 2018,
+        "acquired_year": 2023,
+        "money_made": 0.0,
+        "times_rented": 0
+    },
+    "KDC 303C": {
+        "model": "Subaru Forester",
+        "release_year": 2020,
+        "acquired_year": 2024,
+        "money_made": 0.0,
+        "times_rented": 0
+    },
+    "KDE 505E": {
+        "model": "Nissan X-Trail",
+        "release_year": 2021,
+        "acquired_year": 2025,
+        "money_made": 0.0,
+        "times_rented": 0
+    },
+    "KDF 606F": {
+        "model": "Toyota RAV4",
+        "release_year": 2022,
+        "acquired_year": 2026,
+        "money_made": 0.0,
+        "times_rented": 0
+    }
+}
